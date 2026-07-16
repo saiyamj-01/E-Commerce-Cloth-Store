@@ -1,0 +1,50 @@
+.left,
+.right {
+  border: 4px solid darkblue;
+  max-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.left h1,
+.right h1 {
+  text-align: center;
+  padding: 12px;
+  margin: 0;
+  color: white;
+  background: darkblue;
+  border-bottom: 2px solid black;
+}
+
+.leftData {
+  flex: 1;
+}
+
+.leftData h5 {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+.right > div {
+  flex: 1;
+}
+
+.right .form-control {
+  border: none;
+  box-shadow: none;
+}
+
+.right .form-control:focus {
+  box-shadow: none;
+}
+
+.right textarea {
+  resize: none;
+  min-height: 140px;
+}
+
+.right svg {
+  margin-right: 10px;
+  color: #555;
+  flex-shrink: 0;
+}

@@ -1,0 +1,13 @@
+.os {
+  display: flex;
+  flex-direction: row;
+  margin: 15px 0px;
+  font-size: 20px;
+  justify-content: space-between;
+  gap: 30px;
+  padding: 0 20px;
+}
+
+button:active {
+  transform: scale(1.02);
+}

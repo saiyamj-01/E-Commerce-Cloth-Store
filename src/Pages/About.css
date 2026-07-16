@@ -1,0 +1,34 @@
+.about-section {
+  min-height: 70vh;
+  background-image: url("../assets/About/About.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: cente;
+  display: flex;
+  align-items: center;
+}
+
+@media (max-width: 992px) {
+  .about-section {
+    min-height: 60vh;
+    background-position: center;
+    padding: 60px 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .about-section {
+    min-height: 50vh;
+    background-position: center top;
+    text-align: center;
+    padding: 50px 20px;
+  }
+}
+
+@media (max-width: 576px) {
+  .about-section {
+    min-height: 45vh;
+    padding: 40px 15px;
+    background-position: 20% center;
+  }
+}
