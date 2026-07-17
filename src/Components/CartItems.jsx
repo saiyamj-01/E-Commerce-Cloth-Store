@@ -42,9 +42,6 @@ export default function CartItems() {
                             </button>
                         </div>
                     </td>
-                    {/* <td className="border border-black">
-                        ₹{(el.price * el.quantity).toFixed(2)}
-                    </td> */}
                     <td className="border border-black">
                         <button
                             onClick={() => removeFromCart(el)}

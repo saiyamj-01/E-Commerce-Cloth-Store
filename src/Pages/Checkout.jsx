@@ -305,9 +305,6 @@ export default function Checkout() {
                                     </div>{" "}
                                 </div>{" "}
                                 <hr className="my-4" />{" "}
-                                {/* <button className="w-100 btn btn-primary btn-lg" type="submit">
-                                    Continue to checkout
-                                </button>{" "} */}
                             </form>{" "}
                         </div>
                         <div className="col-lg-4">
