@@ -1,4 +1,4 @@
-<img width="1904" height="991" alt="LoginPage" src="https://github.com/user-attachments/assets/2040eb3c-278d-4c23-bdee-039578053407" /># 🛍️ Cloth Store
+<img width="1900" height="992" alt="HomePage" src="https://github.com/user-attachments/assets/659b4b36-880e-4ad0-aef1-1f9150fe8f74" /># 🛍️ Cloth Store
 
 A modern, responsive **E-commerce Web Application** built with **React.js**. This project was created to practice component-based development, client-side routing, state management, and API integration while delivering a clean and user-friendly shopping experience.
 
